@@ -45,6 +45,9 @@ module.exports = {
           default: "#E07F4F",
         },
       },
+      maxWidth: {
+        page: "1464px",
+      },
     },
   },
   plugins: [],
